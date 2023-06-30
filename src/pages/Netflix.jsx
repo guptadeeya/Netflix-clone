@@ -1,9 +1,12 @@
 import React from 'react'
 
-export default function Netflix() {
+function Netflix() {
   return (
     <div>
       Netflix
     </div>
   )
 }
+
+export default Netflix
+
